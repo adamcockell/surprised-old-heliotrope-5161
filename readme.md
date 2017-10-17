@@ -1,6 +1,6 @@
 # Wired Sensors
 
-Wired Sensors is a web application that will help users make decisions based on real-time and historical environment sensor data.  The project will start with data from the NOAA Tides and Currents API (https://tidesandcurrents.noaa.gov/api/) and the World Air Quality Index API (http://aqicn.org/api/).
+Wired Sensors is a web application that will help users make decisions based on real-time and historical environment sensor data.  The project will start with data from the NOAA Tides and Currents API (https://tidesandcurrents.noaa.gov/api/).
 
 ### Getting Started 
     
